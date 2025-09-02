@@ -1,4 +1,25 @@
-# Pandas Project IMDB Movies Dataset 
+# IMDB Movies Dataset Analysis with Pandas
+
+##### Overview
+- This project involves analyzing the IMDB movies dataset using Pandas to demonstrate data manipulation and analysis skills.
+
+##### Technologies Used
+- Python
+- Pandas
+- NumPy
+
+##### Key Operations
+- Data Concatenation (`pd.concat()`)
+- Merging DataFrames (Inner, Outer, Left Joins)
+- Filtering with `isin()`, `contains()`, `startswith()`
+- GroupBy operations with `agg()`, `filter()`, `transform()`
+- Feature Engineering
+
+##### How to Run
+- 1. Install requirements: `pip install pandas numpy`
+- 2. Open and run the Jupyter Notebook: `imdb_analysis.ipynb`
+
+---
 
 ## Content
 
