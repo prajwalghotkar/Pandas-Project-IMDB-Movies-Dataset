@@ -17,7 +17,7 @@
 
 ##### How to Run
 - 1. Install requirements: `pip install pandas numpy`
-- 2. Open and run the Jupyter Notebook: `imdb_analysis.ipynb`, `pandas_case_study (IMDB)2.ipynb`
+- 2. Open and run the Jupyter Notebook: `Feature Exploration (IMDB Dataset).ipynb`, `pandas_case_study (IMDB)2.ipynb`
 
 
 ---
